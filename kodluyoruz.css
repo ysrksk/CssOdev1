@@ -1,0 +1,29 @@
+h1 {
+    color:red;
+    font-size: 74px;
+}
+
+body {
+    background-color:white;
+    text-align: center;
+}
+
+a {
+    color: blueviolet;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: gold;
+}
+
+li {
+    list-style-position: inside;
+}
+
+.left{
+    text-align: left;
+}
